@@ -1,0 +1,1 @@
+c:\users\shuang\documents\visual studio 2015\Projects\VIUI\VIUI\VIUI.csproj;arm
